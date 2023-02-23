@@ -19,4 +19,8 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/data/contacts.xml
+    - assets/data/mentalGames.xml
+    - assets/images/ic_aprendizaje.png
+    - assets/images/ic_atencion.png
+    - assets/images/ic_pensamiento.png
+    - assets/images/ic_percepcion.png

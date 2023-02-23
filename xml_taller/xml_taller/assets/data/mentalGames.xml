@@ -1,0 +1,22 @@
+<data>
+    <mentalGames>
+        <module>Aprendizaje</module>
+        <description>Actividades enfocadas a adquirir o modificar sus habilidades, destrezas, conocimientos o conductas como fruto de la experiencia directa, el razonamiento o la instrucción.</description>
+        <image>http://educacion.editorialaces.com/wp-content/uploads/2019/02/Neuromito-estilos-de-aprendizaje-ENTRADA.png</image>
+    </mentalGames>
+    <mentalGames>
+        <module>Atención</module>
+        <description>Actividades enfocadas a mejorar y mantener la capacidad de concentración.</description>
+        <image>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9k3mVuSCk4L1ELbpocAVpzqJjTPcJ4z5go3_jfigUjYipmWh7lxhvOiY5ZJAD_0xxATlWqP0mwYJdrA0co0OJEM-ul0fAp9plEibTClywhbMFBPu5ukCJjTgNXxVSF6UQsE4IkjgF83MwA4W8mmtdOcIalB5Dsfd4SDghEEMVOZ9QTtw55_RhmtCD/s500/distrai%CC%81do.png</image>
+    </mentalGames>
+    <mentalGames>
+        <module>Pensamiento</module>
+        <description>Actividades enfocadas al razonamiento y juicio lógico en el que se establecen relaciones racionales entre elementos concretos y/o abstractos.</description>
+        <image>https://www.mentesliberadas.com/wp-content/uploads/2018/03/pensamiento-lateral-juego-1024x683.jpg</image>
+    </mentalGames>
+    <mentalGames>
+        <module>Percepción</module>
+        <description>Actividades que estimulan la capacidad para identificar los objetos del entorno.</description>
+        <image>https://i.ytimg.com/vi/zKl6uJdDNyo/hqdefault.jpg</image>
+    </mentalGames>
+</data>
